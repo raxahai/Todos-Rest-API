@@ -1,0 +1,17 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "This is a REST API for todos",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Syed Raza Haider",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "pg": "^8.14.1"
+  }
+}
