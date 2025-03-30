@@ -74,8 +74,8 @@ To set up the project locally, follow these steps:
    - **Retrieve a Specific To-Do Item**:
 
     ```http
-     GET /todos/:id
-     ```
+    GET /todos/:id
+    ```
 
    - **Update a To-Do Item**:
 
